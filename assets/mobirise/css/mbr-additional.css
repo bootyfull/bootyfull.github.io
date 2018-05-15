@@ -1372,3 +1372,185 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qS7vk81LfM {
+  background-image: url("../../../assets/images/00028147-2000x1500.jpg");
+}
+.cid-qS7vk81LfM H1 {
+  color: #cc2952;
+}
+.cid-qS7vk81LfM I {
+  color: #ffffff;
+}
+.cid-qS7vk81LfM .mbr-text,
+.cid-qS7vk81LfM .mbr-section-btn {
+  color: #7f1933;
+}
+.cid-qS7HFcun3J {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/ocean-600x600.jpg");
+}
+.cid-qS7HFcun3J .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qS7HFcun3J .formoid {
+  margin: auto;
+}
+.cid-qS7HFcun3J .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-qS7HFcun3J a.btn {
+  flex: 0 0 auto;
+  -webkit-flex: 0 0 auto;
+}
+.cid-qS7HFcun3J .input-group-btn {
+  align-self: center;
+  -webkit-align-self: center;
+  z-index: 3;
+}
+.cid-qS7HFcun3J .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.cid-qS7HFcun3J a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-qS7HFcun3J a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qS7HFcun3J .mbr-subscribe .input-group-btn {
+  display: inline-block;
+}
+.cid-qS7HFcun3J .mbr-subscribe .input-group-btn button,
+.cid-qS7HFcun3J .mbr-subscribe .input-group-btn a {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+@media (max-width: 350px) {
+  .cid-qS7HFcun3J .mbr-subscribe {
+    flex-direction: column;
+    -webkit-flex-direction: column;
+  }
+  .cid-qS7HFcun3J input[type="email"] {
+    width: 100%;
+    margin-bottom: 2px;
+  }
+  .cid-qS7HFcun3J .input-group-btn {
+    width: 100%;
+  }
+  .cid-qS7HFcun3J .input-group-btn .btn {
+    border-radius: 3px;
+  }
+}
+@media (max-width: 768px) {
+  .cid-qS7HFcun3J .input-group-btn a.btn {
+    width: 100%;
+  }
+  .cid-qS7HFcun3J .input-group-btn {
+    width: calc(92%);
+  }
+  .cid-qS7HFcun3J .input-group-btn button[type="submit"] {
+    width: 100%;
+  }
+  .cid-qS7HFcun3J .input-group {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: auto;
+    max-width: 300px;
+  }
+  .cid-qS7HFcun3J .input-group input[type="email"] {
+    width: 100%;
+    margin-bottom: 3px;
+  }
+  .cid-qS7HFcun3J .input-group span {
+    display: inline;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .cid-qS7HFcun3J .input-group-btn button,
+  .cid-qS7HFcun3J .input-group-btn a {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+@media (min-width: 769px) {
+  .cid-qS7HFcun3J .mbr-subscribe > * {
+    margin: 0 0.5rem;
+  }
+}
+.cid-qS7HFcun3J H2 {
+  color: #efefef;
+}
+.cid-qS7JQ6Z0KH {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-qS7JQ6Z0KH .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qS7JQ6Z0KH .section-text {
+  padding: 2rem 0;
+}
+.cid-qS7JQ6Z0KH .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qS7JQ6Z0KH .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qS7KH7se05 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/ocean-600x600.jpg");
+}
+.cid-qS7KH7se05 .nav-tabs .nav-item.open .nav-link:focus,
+.cid-qS7KH7se05 .nav-tabs .nav-link.active:focus {
+  outline: none;
+}
+.cid-qS7KH7se05 .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-qS7KH7se05 .nav-tabs .nav-item {
+  padding: .5rem;
+}
+.cid-qS7KH7se05 .nav-tabs .nav-link {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 500;
+  border: 1px solid #ffffff;
+  transition: all .5s;
+}
+.cid-qS7KH7se05 .nav-tabs .nav-link:hover {
+  cursor: pointer;
+  background-color: #149dcc;
+}
+.cid-qS7KH7se05 .nav-tabs .nav-link.active {
+  font-weight: 500;
+  color: #ffffff;
+  font-style: normal;
+  background-color: #149dcc;
+  border-color: #149dcc;
+}
+.cid-qS7KH7se05 .nav-tabs .nav-link.active:hover {
+  background-color: #149dcc;
+}
+.cid-qS7KH7se05 p {
+  color: #ffffff;
+}
+.cid-qS7KH7se05 .mbr-text {
+  text-align: center;
+}
