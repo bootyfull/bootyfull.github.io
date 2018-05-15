@@ -33,7 +33,9 @@
     "uniqCompNum": 6,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/bootyfull-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
